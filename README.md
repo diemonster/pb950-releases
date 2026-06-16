@@ -1,3 +1,5 @@
 # PB950 Sampler
 
-This is the official release repo for the PB950 `最高サンプラー｀ Sampler. 
+This is the release repo for the PB950 Sampler aka `最高サンプラー`.
+
+<img width="1190" height="748" alt="Screenshot 2026-06-16 at 2 54 35 PM" src="https://github.com/user-attachments/assets/8433465b-b6aa-412c-ba2f-fd05b1e204d2" />
